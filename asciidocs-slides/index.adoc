@@ -12,20 +12,24 @@ ifndef::backend[:backend: html5]
 * Hosic Tarik
 
 == Auftraggeber
+image::themes/kontron.jpeg[background, size=cover]
 * Kontron Technologies
-* Tocherunternehmen der S&T AG
+* Tochterunternehmen der S&T AG
 * Vier Standorte in Österreich
 * Entwicklung von Standardlösungen und Individualsoftware
 
 == Ausgangslage
+image::themes/profiler.png[background, size=cover]
 * Dokumentenmanagementsystem: Profiler
 * Organisation der Dokumente anhand der Vorlagen erfolgt manuell
 
 == Ziele
+image::themes/goals.jpeg[background, size=cover]
 * Zuweisen der Vorlagen and das Dokument soll automatisiert werden
 * Vergleich und eventuelle Findung einer anderen, besseren PDF-Library
 
 == Ergebnis
+image::themes/results.jpeg[background, size=cover]
 * ASP.NET Core Anwendung
 ** Als Windows-Service im Hintergrund
 ** Library für das Arbeiten mit PDFs und Bilddateien
@@ -40,11 +44,13 @@ ifndef::backend[:backend: html5]
 === Ablauf
 
 == Neuerlernte Technologien
+image::themes/technologie.jpeg[background, size=cover]
 * SOAP-Services
 * Arbeiten mit Firmentools
 * Arbeiten mit PDFs und Bilddateien und dessen Inhalten
 
 == Probleme
+image::themes/problem.jpeg[background, size=cover]
 * Pdf als Bildinhalt
 * Zusammenfügen von Konstrukten
 * Konvertierung von Pdf zu Tiff
