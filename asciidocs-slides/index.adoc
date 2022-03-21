@@ -44,4 +44,10 @@ ifndef::backend[:backend: html5]
 * Arbeiten mit Firmentools
 * Arbeiten mit PDFs und Bilddateien und dessen Inhalten
 
+== Probleme
+* Pdf als Bildinhalt
+* Zusammenfügen von Konstrukten
+* Konvertierung von Pdf zu Tiff
+* Qualität der Bildkonvertierung
+
 == Danke für Ihre Aufmerksamkeit
